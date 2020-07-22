@@ -36,12 +36,12 @@ a {
   margin: 16px;
   color: white;
   background-color: #3282b8;
-  transition: 1s;
 }
 
 .btn-blue:hover {
   background-color: #22587c;
   box-shadow: 0 0 8px rgba(0,0,0,0.3);
+  transition: 1s;
 }
 
 .card-white {
