@@ -1,9 +1,7 @@
-body {
-  font-family: 'Open Sans', sans-serif;
-  background-color: #f2f8fc;
-  color: rgb(80,80,80);
-  text-align: center;
-}
+
+background-color: #f2f8fc;
+color: rgb(80,80,80);
+
 
 I love singing disco songs, wearing costumes and coding with Ruby. I have questionable tastes but somehow people like me as I am, and I'm grateful for that.
 
